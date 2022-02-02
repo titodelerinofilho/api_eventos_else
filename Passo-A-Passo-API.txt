@@ -1,0 +1,5 @@
+# Passo a Passo para Instalação do Symfony para API REST
+
+1º Instalação do Symfony:
+Terminal: symfony new Nome_Api_Rest
+
